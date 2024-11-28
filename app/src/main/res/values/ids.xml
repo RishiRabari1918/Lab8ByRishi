@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main" type="id">Main</item>
+    <item name="tablayout" type="id">Table Layout</item>
+    <item name="framelayout" type="id">Frame Layout</item>
+</resources>
